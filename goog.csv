@@ -1,0 +1,125 @@
+,Subreddit,Title,Flair,Post Text,Post URL,Comments
+0,wallstreetbets,2023-03-20 Wrinkle-brain Plays (Mathematically derived options plays),DD,"# Tickers of Interest - TL;DR
+
+**Gamma Max Cross**
+
+* [NVDA](https://options.hardyrekshin.com/#NVDA) 04/21 255P for $12.55 or less
+* [AMD](https://options.hardyrekshin.com/#AMD) 04/21 95P for $4.25 or less
+* [GOOG](https://options.hardyrekshin.com/#GOOG) 04/21 100P for $2.50 or less
+* [TQQQ](https://options.hardyrekshin.com/#TQQQ) 04/21 24P for $1.80 or less
+* [MARA](https://options.hardyrekshin.com/#MARA) 04/21 8P for $1.25 or less
+
+
+**Delta Neutral Cross**
+
+* [CLF](https://options.hardyrekshin.com/#CLF) 04/21 18C for $0.85 or less
+* [ABNB](https://options.hardyrekshin.com/#ABNB) 04/21 120C for $4.65 or less
+* [XLP](https://options.hardyrekshin.com/#XLP) 04/21 71P for $0.95 or less
+* [MRNA](https://options.hardyrekshin.com/#MRNA) 04/21 150P for $8.45 or less 
+* [TGT](https://options.hardyrekshin.com/#TGT) 04/21 155P for $3.65 or less
+
+# Trading Thesis - Why These Crayons Taste Better
+
+Technical analysis and indicator based trading tend to use past price performance in order to predict important price levels today. 
+
+This analysis is based on the current option open interest. With that option open interest, it calculates portfolio-level greeks--notably Delta and Gamma. More importantly, once the portfolio level greeks are established, I can now simulate the change in greeks at different price points. From there, I can find the price levels where portfolio-level gamma is the highest, and the portfolio-level delta is close to 0. 
+
+For some tickers, the underlying price reacts strongly off of delta neutral, gamma max, and sometimes both. 
+
+It's the reaction off of these price levels in the past that is being used to drive trading signals. 
+
+The plays and target entry prices given are calculated using a binomial option pricing model that reflect the expected size and duration of the reaction from gamma max or delta neutral. A lot of these plays are profitable by underlying moves in stock. The best plays benefit from the directional move as well as the increase in IV.
+
+# Notes - Something to give you a new wrinkle
+
+* If the price has moved past the entry price, exercise caution. Something changed between the time these plays were generated and market open. 
+* Look to sell half your position on a double, and freeroll the rest to exit at your discretion. 
+* I tend to risk up to 1% of my total capital on any trades I take. If my conviction is lower, I'll only allocate 0.5% or even 0.25% of my capital to the trade, and dollar cost average in. 
+* The trades were calculated before market open, and so are based on information up to yesterday. Keep that in mind when deciding to enter well after the fact. New price movement may invalidate the original thesis.
+
+# FAQ - Because others have already asked.
+
+* These plays are mostly puts. Are you a gay bear?
+   * No. It so happens that the companies have had some recent run-up which implies they are overextended. These trades are primarily some form of mean-reversion either toward or away from an important price level.
+* Are you entering all these plays?
+   * No. There have been a dearth of plays in the WSB morning talks, and so I opened up my bag of tools slightly wider to point out more plays with a probable edge to help lead apes to more gain porn. Go through this curated list of plays, pick the ones you like based on whatever additional analysis you use, and get that gain porn.
+* You mentioned a new play on the same ticker in the past. What does that mean?
+   * The new play should replace the old play. The old play is likely now invalid and if you haven't entered in, don't chase the price. Remember that a new day's worth of data has been produced and the newer play reflects that data, the older play does not.
+* Where are the crayons? I only see words. 
+   * Click the links above.
+* Have you back-tested this?
+   * Yes. Results show a moderate Sharpe Ratio (1.76), with an expected win rate of 63% of trades (7% margin of error)
+* What is the historical performance?
+   * The realized Sharpe Ratio is 1.88 with a 66% win rate. Based on the trade performance so far, there is a 95% chance the expected win rate will be between 62% and 77%. (Stats as of 2023-02-28)",https://www.reddit.com/r/wallstreetbets/comments/11upgcx/20230320_wrinklebrain_plays_mathematically/,"># Tickers of Interest - TL;DR
+**Gamma Max Cross**
+
+  * [NVDA](https://options.hardyrekshin.com/#NVDA) 04/21 255P for $12.55 or less 
+  * [AMD](https://options.hardyrekshin.com/#AMD) 04/21 95P for $4;;Shorting California;;Which dataset and methodology do you use for calculating GM & DN? Do you have a GitHub repo?;;Still waiting forJPM 135C 04/21/23 & AMZN 95P 04/21/23 to print 😕;;8 out 10 are P's ; makes sense in this environment.... maybe bers will finally get their fill;; 
+
+* [NVDA](https://options.hardyrekshin.com/#NVDA) 04/21 255P for $12.55 or less
+
+Been looking to short Nvidia for a while now - this is some pretty stimulating confirmation.;;Got my AMD puts;;Thanks you hardy, already have few puts on NVDA , will be adding more"
+1,wallstreetbets,2023-03-15 Wrinkle-brain Plays (Mathematically derived options plays),DD,"# Tickers of Interest - TL;DR
+
+**Gamma Max Cross**
+
+No viable gamma max crosses. Maybe next time. 
+
+**Delta Neutral Cross**
+
+* [GOOG](https://options.hardyrekshin.com/#GOOG) 04/21 95C for $3.50 or less
+* [SOFI](https://options.hardyrekshin.com/#SOFI) 04/21 6C for $0.25 or less
+* [JPM](https://options.hardyrekshin.com/#JPM) 04/21 135C for $4.15 or less
+* [XLK](https://options.hardyrekshin.com/#XLK) 04/21 140C for $3.50 or less 
+* [ROKU](https://options.hardyrekshin.com/#ROKU) 04/21 65C for $3.55 or less
+
+# Trading Thesis - Why These Crayons Taste Better
+
+Technical analysis and indicator based trading tend to use past price performance in order to predict important price levels today. 
+
+This analysis is based on the current option open interest. With that option open interest, it calculates portfolio-level greeks--notably Delta and Gamma. More importantly, once the portfolio level greeks are established, I can now simulate the change in greeks at different price points. From there, I can find the price levels where portfolio-level gamma is the highest, and the portfolio-level delta is close to 0. 
+
+For some tickers, the underlying price reacts strongly off of delta neutral, gamma max, and sometimes both. 
+
+It's the reaction off of these price levels in the past that is being used to drive trading signals. 
+
+The plays and target entry prices given are calculated using a binomial option pricing model that reflect the expected size and duration of the reaction from gamma max or delta neutral. A lot of these plays are profitable by underlying moves in stock. The best plays benefit from the directional move as well as the increase in IV.
+
+# Notes - Something to give you a new wrinkle
+
+* If the price has moved past the entry price, exercise caution. Something changed between the time these plays were generated and market open. 
+* Look to sell half your position on a double, and freeroll the rest to exit at your discretion. 
+* I tend to risk up to 1% of my total capital on any trades I take. If my conviction is lower, I'll only allocate 0.5% or even 0.25% of my capital to the trade, and dollar cost average in. 
+* The trades were calculated before market open, and so are based on information up to yesterday. Keep that in mind when deciding to enter well after the fact. New price movement may invalidate the original thesis.
+
+# FAQ - Because others have already asked.
+
+* These plays are mostly puts. Are you a gay bear?
+   * No. It so happens that the companies have had some recent run-up which implies they are overextended. These trades are primarily some form of mean-reversion either toward or away from an important price level.
+* Are you entering all these plays?
+   * No. There have been a dearth of plays in the WSB morning talks, and so I opened up my bag of tools slightly wider to point out more plays with a probable edge to help lead apes to more gain porn. Go through this curated list of plays, pick the ones you like based on whatever additional analysis you use, and get that gain porn.
+* You mentioned a new play on the same ticker in the past. What does that mean?
+   * The new play should replace the old play. The old play is likely now invalid and if you haven't entered in, don't chase the price. Remember that a new day's worth of data has been produced and the newer play reflects that data, the older play does not.
+* Where are the crayons? I only see words. 
+   * Click the links above.
+* Have you back-tested this?
+   * Yes. Results show a moderate Sharpe Ratio (1.76), with an expected win rate of 63% of trades (7% margin of error)
+* What is the historical performance?
+   * The realized Sharpe Ratio is 1.88 with a 66% win rate. Based on the trade performance so far, there is a 95% chance the expected win rate will be between 62% and 77%. (Stats as of 2023-02-28)",https://www.reddit.com/r/wallstreetbets/comments/11rifaw/20230315_wrinklebrain_plays_mathematically/,"JPM, Google and XLK plays seem decent. Kinda ballsy going long with current market conditions tho.;;Good GOOG call, just printed for me, thanks Hardy!;;Sofi hasn’t gotten love in a whiiile. Stuck in single digits. Just waiting 🦍;;\+46% on GOOGL and +11.27% on ROKU, thank you very much!
+
+Here is the regarded question(s) though: How do you time these for exiting again? Are these typically daily plays or a bit longer?;;I won’t play any of these thanks though;;dont u mean 65c for roku, no 62c on 21st;;do you ever double down? currently in  GM 04/21 38C and down 45%  
+thanks;;How does your code and/or data sources handle option contracts that just expired?  Look at your GOOG chart and gamma max that systematically drops on Fridays.   I could not duplicate last Friday's GOOG gamma max using my code, but the chain I was using from CBOE did not include data from 03/10.  My gamma max was 102.79, closer to your 03/13 value after close.  I know that for some data sources, expired contracts linger for a while.
+
+Edit: I also confirmed results from my code to publicly available code found at 
+
+[https://rstudio-pubs-static.s3.amazonaws.com/968660\_435758e7a65e4ec497fd027c07bdc49a.html](https://rstudio-pubs-static.s3.amazonaws.com/968660_435758e7a65e4ec497fd027c07bdc49a.html);;>No, I haven't back-tested this.;;What’s your stop?;;FAQ… these plays are mostly calls?;;Would love to see more of this"
+2,wallstreetbets,Stock Market today 3/13/23,Chart,,https://i.redd.it/mnyqkk45fmna1.jpg,"Not great, not terrible.;;I like it when it's all red;;Literally pumping tech to hide what’s coming.;;Where can I find that chart?;;https://preview.redd.it/kaztd88otmna1.jpeg?width=1076&format=pjpg&auto=webp&v=enabled&s=6b8aa7644bfe9f64206172dfcda99c743145a32e;;Woah, been a while since I've seen that much green;;Why don't you sell $NVDA ?"
+3,dividends,Market beating long term portfolio discussion,Discussion,"Do you guys consider this a Market beating (Total Return) Portfolio?
+
+I Tried to find strong monopolies with nice margins and historical strong businesses, and this was my result andd will be my portfolio for the next 20 years.
+
+https://preview.redd.it/l049lkjeaena1.png?width=549&format=png&auto=webp&v=enabled&s=bc29b5f5a5f3618446b5ff86c80ca9b75b9aef15
+
+[View Poll](https://www.reddit.com/poll/11pty1v)",https://www.reddit.com/r/dividends/comments/11pty1v/market_beating_long_term_portfolio_discussion/,"I definitely think so as long as you're careful with valuations when buying, especially in tech.;;Completely informing valuations, so it'll probably underperform;;If healthcare, financial services, energy, staples & discretionary lag the market over the same time frame then the allocation shown could outperform.
+
+What are the “nice margins” of AMZN?;;Have you looked at AMD, NVDA, TSLA, INTC? Do they not fit your investment strategy?;;Not a hope. Monopolies inevitably underperform over time as they get lazy. You're deliberately betting against innovation."
