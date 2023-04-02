@@ -1,0 +1,502 @@
+Sector,Symbol,Company Name
+Finance,ACGL-Q,Arch Capital Grp Ltd
+Finance,AFL-N,Aflac Inc
+Finance,AIG-N,American International Group
+Finance,AIZ-N,Assurant Inc
+Finance,AJG-N,Arthur J. Gallagher & Company
+Finance,ALL-N,Allstate Corp
+Finance,AMP-N,Ameriprise Financial Services
+Finance,AON-N,AON Plc
+Finance,AXP-N,American Express Company
+Finance,BAC-N,Bank of America Corp
+Finance,BEN-N,Franklin Resources
+Finance,BK-N,Bank of New York Mellon Corp
+Finance,BLK-N,Blackrock Inc
+Finance,BRK-B-N,Berkshire Hathaway Cl B
+Finance,BRO-N,Brown & Brown
+Finance,C-N,Citigroup Inc
+Finance,CB-N,Chubb Ltd
+Finance,CBOE-A,CBOE Global Markets Inc
+Finance,CFG-N,Citizens Financial Group Inc/Ri
+Finance,CINF-Q,Cincinnati Financial
+Finance,CMA-N,Comerica Inc
+Finance,CME-Q,CME Group Inc
+Finance,COF-N,Capital One Financial Corp
+Finance,DFS-N,Discover Financial Services
+Finance,FDS-N,Factset Research Systems Inc
+Finance,FITB-Q,Fifth Third Bancorp
+Finance,FRC-N,First Republic Bank
+Finance,GL-N,Globe Life Inc
+Finance,GS-N,Goldman Sachs Group
+Finance,HBAN-Q,Huntington Bcshs
+Finance,HIG-N,Hartford Financial Services Group
+Finance,ICE-N,Intercontinental Exchange
+Finance,IVZ-N,Invesco Plc
+Finance,JPM-N,JP Morgan Chase & Company
+Finance,KEY-N,Keycorp
+Finance,L-N,Loews Corp
+Finance,LNC-N,Lincoln National Corp
+Finance,MCO-N,Moody's Corp
+Finance,MET-N,Metlife Inc
+Finance,MKTX-Q,Marketaxess Holdings
+Finance,MMC-N,Marsh & Mclennan Companies
+Finance,MS-N,Morgan Stanley
+Finance,MSCI-N,MSCI Inc
+Finance,MTB-N,M&T Bank Corp
+Finance,NDAQ-Q,Nasdaq Inc
+Finance,NTRS-Q,Northern Trust Corp
+Finance,PFG-Q,Principal Financial Group Inc
+Finance,PGR-N,Progressive Corp
+Finance,PNC-N,PNC Bank
+Finance,PRU-N,Prudential Financial Inc
+Finance,RE-N,Everest Re Group
+Finance,RF-N,Regions Financial Corp
+Finance,RJF-N,Raymond James Financial
+Finance,SCHW-N,The Charles Schwab Corp
+Finance,SPGI-N,S&P Global Inc
+Finance,STT-N,State Street Corp
+Finance,SYF-N,Synchrony Financial
+Finance,TFC-N,Truist Financial Corp
+Finance,TROW-Q,T Rowe Price Group
+Finance,TRV-N,The Travelers Companies Inc
+Finance,USB-N,U.S. Bancorp
+Finance,WFC-N,Wells Fargo & Company
+Finance,WRB-N,W.R. Berkley Corp
+Finance,WTW-Q,Willis Towers Watson Public Ltd
+Finance,ZION-Q,Zions Bancorp
+Consumer Staples,ADM,Archer Daniels Midland
+Consumer Staples,BF.B,Brown Forman Inc Cl B
+Consumer Staples,CAG,Conagra Brands Inc
+Consumer Staples,CHD,Church & Dwight Company
+Consumer Staples,CL,Colgate-Palmolive Company
+Consumer Staples,CLX,Clorox Company
+Consumer Staples,COST,Costco Wholesale
+Consumer Staples,CPB,Campbell Soup Company
+Consumer Staples,EL,Estee Lauder Companies
+Consumer Staples,GIS,General Mills
+Consumer Staples,HRL,Hormel Foods Corp
+Consumer Staples,HSY,Hershey Foods Corp
+Consumer Staples,K,Kellogg Company
+Consumer Staples,KDP,Keurig Dr Pepper Inc
+Consumer Staples,KHC,Kraft Heinz Company
+Consumer Staples,KMB,Kimberly-Clark Corp
+Consumer Staples,KO,Coca-Cola Company
+Consumer Staples,KR,Kroger Company
+Consumer Staples,LW,Lamb Weston Holdings Inc
+Consumer Staples,MDLZ,Mondelez Intl Inc
+Consumer Staples,MKC,Mccormick & Company
+Consumer Staples,MNST,Monster Beverage Cp
+Consumer Staples,MO,Altria Group
+Consumer Staples,PEP,Pepsico Inc
+Consumer Staples,PG,Procter & Gamble Company
+Consumer Staples,PM,Philip Morris International Inc
+Consumer Staples,SJM,J.M. Smucker Company
+Consumer Staples,STZ,Constellation Brands Inc
+Consumer Staples,SYY,Sysco Corp
+Consumer Staples,TAP,Molson Coors Brewing Company
+Consumer Staples,TSN,Tyson Foods
+Consumer Staples,WBA,Walgreens Boots Alliance
+Consumer Staples,WMT,Walmart Inc
+Communication Services,ATVI-Q,Activision Blizzard
+Communication Services,CHTR-Q,Charter Communications Inc
+Communication Services,CMCSA-Q,Comcast Corp A
+Communication Services,DIS-N,Walt Disney Company
+Communication Services,DISH-Q,Dish Network Corp
+Communication Services,EA-Q,Electronic Arts Inc
+Communication Services,FOX-Q,Fox Corp Cl B
+Communication Services,FOXA-Q,Fox Corp Cl A
+Communication Services,GOOG-Q,Alphabet Cl C
+Communication Services,GOOGL-Q,Alphabet Cl A
+Communication Services,IPG-N,Interpublic Group of Companies
+Communication Services,LUMN-N,Lumen Technologies Inc
+Communication Services,LYV-N,Live Nation Entertainment
+Communication Services,META-Q,Meta Platforms Inc
+Communication Services,MTCH-Q,Match Group Inc
+Communication Services,NFLX-Q,Netflix Inc
+Communication Services,NWS-Q,News Corp Cl B
+Communication Services,NWSA-Q,News Corp Cl A
+Communication Services,OMC-N,Omnicom Group Inc
+Communication Services,PARA-Q,Paramount Global Cl B
+Communication Services,T-N,AT&T Inc
+Communication Services,TMUS-Q,T-Mobile US
+Communication Services,TTWO-Q,Take-Two Interactive
+Communication Services,VZ-N,Verizon Communications Inc
+Communication Services,WBD-Q,Discovery Inc Series A
+Consumer Discretionary,AAP-N,Advance Auto Parts Inc
+Consumer Discretionary,AMZN-Q,Amazon.com Inc
+Consumer Discretionary,APTV-N,Aptiv Plc
+Consumer Discretionary,AZO-N,Autozone
+Consumer Discretionary,BBWI-N,Bath & Body Works Inc
+Consumer Discretionary,BBY-N,Best Buy Company
+Consumer Discretionary,BKNG-Q,Booking Holdings Inc
+Consumer Discretionary,BWA-N,Borgwarner Inc
+Consumer Discretionary,CCL-N,Carnival Corp
+Consumer Discretionary,CMG-N,Chipotle Mexican Grill
+Consumer Discretionary,CZR-Q,Caesars Entertainment Inc
+Consumer Discretionary,DG-N,Dollar General Corp
+Consumer Discretionary,DHI-N,D.R. Horton
+Consumer Discretionary,DLTR-Q,Dollar Tree Inc
+Consumer Discretionary,DPZ-N,Domino's Pizza Inc
+Consumer Discretionary,DRI-N,Darden Restaurants
+Consumer Discretionary,EBAY-Q,Ebay Inc
+Consumer Discretionary,ETSY-Q,Etsy Inc
+Consumer Discretionary,EXPE-Q,Expedia Group Inc
+Consumer Discretionary,F-N,Ford Motor Company
+Consumer Discretionary,GM-N,General Motors Company
+Consumer Discretionary,GPC-N,Genuine Parts Company
+Consumer Discretionary,GRMN-N,Garmin Ltd
+Consumer Discretionary,HAS-Q,Hasbro Inc
+Consumer Discretionary,HD-N,Home Depot
+Consumer Discretionary,HLT-N,Hilton Inc
+Consumer Discretionary,KMX-N,Carmax Inc
+Consumer Discretionary,LEN-N,Lennar Corp
+Consumer Discretionary,LKQ-Q,LKQ Corp
+Consumer Discretionary,LOW-N,Lowe's Companies
+Consumer Discretionary,LVS-N,Las Vegas Sands
+Consumer Discretionary,MAR-Q,Marriot Int Cl A
+Consumer Discretionary,MCD-N,McDonald's Corp
+Consumer Discretionary,MGM-N,MGM Resorts International
+Consumer Discretionary,MHK-N,Mohawk Industries
+Consumer Discretionary,NCLH-N,Norwegian Cruise Ord
+Consumer Discretionary,NKE-N,Nike Inc
+Consumer Discretionary,NVR-N,NVR Inc
+Consumer Discretionary,NWL-Q,Newell Rubbermaid Inc
+Consumer Discretionary,ORLY-Q,O'Reilly Automotive
+Consumer Discretionary,PHM-N,Pultegroup
+Consumer Discretionary,POOL-Q,Pool Corp
+Consumer Discretionary,RCL-N,Royal Caribbean Cruises Ltd
+Consumer Discretionary,RL-N,Ralph Lauren Corp
+Consumer Discretionary,ROST-Q,Ross Stores Inc
+Consumer Discretionary,SBUX-Q,Starbucks Corp
+Consumer Discretionary,TGT-N,Target Corp
+Consumer Discretionary,TJX-N,TJX Companies
+Consumer Discretionary,TPR-N,Tapestry Inc
+Consumer Discretionary,TSCO-Q,Tractor Supply Company
+Consumer Discretionary,TSLA-Q,Tesla Inc
+Consumer Discretionary,ULTA-Q,Ulta Beauty Inc
+Consumer Discretionary,VFC-N,V.F. Corp
+Consumer Discretionary,WHR-N,Whirlpool Corp
+Consumer Discretionary,WYNN-Q,Wynn Resorts Ltd
+Consumer Discretionary,YUM-N,Yum! Brands
+Energy,APA-Q,Apa Corp
+Energy,BKR-Q,Baker Hughes Company
+Energy,COP-N,Conocophillips
+Energy,CTRA-N,Coterra Energy Inc
+Energy,CVX-N,Chevron Corp
+Energy,DVN-N,Devon Energy Corp
+Energy,EOG-N,Eog Resources
+Energy,EQT-N,Eqt Corp
+Energy,FANG-Q,Diamondback Energy
+Energy,HAL-N,Halliburton Company
+Energy,HES-N,Hess Corp
+Energy,KMI-N,Kinder Morgan
+Energy,MPC-N,Marathon Petroleum Corp
+Energy,MRO-N,Marathon Oil Corp
+Energy,OKE-N,Oneok Inc
+Energy,OXY-N,Occidental Petroleum Corp
+Energy,PSX-N,Phillips 66
+Energy,PXD-N,Pioneer Natural Resources Company
+Energy,SLB-N,Schlumberger N.V.
+Energy,TRGP-N,Targa Resources
+Energy,VLO-N,Valero Energy Corp
+Energy,WMB-N,Williams Companies
+Energy,XOM-N,Exxon Mobil Corp
+Health Care,A-N,Agilent Technologies
+Health Care,ABBV-N,Abbvie Inc
+Health Care,ABC-N,Amerisourcebergen Corp
+Health Care,ABT-N,Abbott Laboratories
+Health Care,ALGN-Q,Align Technology
+Health Care,AMGN-Q,Amgen Inc
+Health Care,BAX-N,Baxter International Inc
+Health Care,BDX-N,Becton Dickinson and Company
+Health Care,BIIB-Q,Biogen Inc
+Health Care,BIO-N,Bio-Rad Laboratories
+Health Care,BMY-N,Bristol-Myers Squibb Company
+Health Care,BSX-N,Boston Scientific Corp
+Health Care,CAH-N,Cardinal Health
+Health Care,CI-N,The Cigna Group
+Health Care,CNC-N,Centene Corp
+Health Care,COO-N,Cooper Companies
+Health Care,CRL-N,Charles River Laboratories Intl
+Health Care,CTLT-N,Catalent Inc
+Health Care,CVS-N,CVS Corp
+Health Care,DGX-N,Quest Diagnostics Inc
+Health Care,DHR-N,Danaher Corp
+Health Care,DVA-N,Davita Healthcare Partners Inc
+Health Care,DXCM-Q,Dexcom Inc
+Health Care,ELV-N,Elevance Health Inc
+Health Care,EW-N,Edwards Lifesciences Corp
+Health Care,GEHC-Q,Ge Healthcare Technologies Inc
+Health Care,GILD-Q,Gilead Sciences Inc
+Health Care,HCA-N,Hca Holdings Inc
+Health Care,HOLX-Q,Hologic Inc
+Health Care,HSIC-Q,Henry Schein Inc
+Health Care,HUM-N,Humana Inc
+Health Care,IDXX-Q,Idexx Laboratories
+Health Care,ILMN-Q,Illumina Inc
+Health Care,INCY-Q,Incyte Corp
+Health Care,IQV-N,Iqvia Holdings Inc
+Health Care,ISRG-Q,Intuitive Surg Inc
+Health Care,JNJ-N,Johnson & Johnson
+Health Care,LH-N,Laboratory Corp of America Holdings
+Health Care,LLY-N,Eli Lilly and Company
+Health Care,MCK-N,Mckesson Corp
+Health Care,MDT-N,Medtronic Inc
+Health Care,MOH-N,Molina Healthcare Inc
+Health Care,MRK-N,Merck & Company
+Health Care,MRNA-Q,Moderna Inc
+Health Care,MTD-N,Mettler-Toledo International
+Health Care,OGN-N,Organon & Co.
+Health Care,PFE-N,Pfizer Inc
+Health Care,PKI-N,Perkinelmer
+Health Care,REGN-Q,Regeneron Pharmaceuticals
+Health Care,RMD-N,Resmed Inc
+Health Care,STE-N,Steris Corp
+Health Care,SYK-N,Stryker Corp
+Health Care,TECH-Q,Bio-Techne Cp
+Health Care,TFX-N,Teleflex Inc
+Health Care,TMO-N,Thermo Fisher Scientific Inc
+Health Care,UHS-N,Universal Health Services
+Health Care,UNH-N,Unitedhealth Group Inc
+Health Care,VRTX-Q,Vertex Pharmaceutic
+Health Care,VTRS-Q,Viatris Inc
+Health Care,WAT-N,Waters Corp
+Health Care,WST-N,West Pharmaceutical Services
+Health Care,XRAY-Q,Dentsply Sirona Inc
+Health Care,ZBH-N,Zimmer Biomet Holdings
+Health Care,ZTS-N,Zoetis Inc Cl A
+Industrial,AAL-Q,American Airlines Gp
+Industrial,ALK-N,Alaska Air Group
+Industrial,ALLE-N,Allegion Plc
+Industrial,AME-N,Ametek Inc
+Industrial,AOS-N,Smith A.O. Corp
+Industrial,BA-N,Boeing Company
+Industrial,CARR-N,Carrier Global Corp
+Industrial,CAT-N,Caterpillar Inc
+Industrial,CHRW-Q,C.H. Robinson Ww
+Industrial,CMI-N,Cummins Inc
+Industrial,CPRT-Q,Copart Inc
+Industrial,CSGP-Q,Costar Group Inc
+Industrial,CSX-Q,CSX Corp
+Industrial,CTAS-Q,Cintas Corp
+Industrial,DAL-N,Delta Air Lines Inc
+Industrial,DE-N,Deere & Company
+Industrial,DOV-N,Dover Corp
+Industrial,EFX-N,Equifax Inc
+Industrial,EMR-N,Emerson Electric Company
+Industrial,ETN-N,Eaton Corp
+Industrial,EXPD-Q,Expeditors Intl
+Industrial,FAST-Q,Fastenal Company
+Industrial,FDX-N,Fedex Corp
+Industrial,FTV-N,Fortive Corp
+Industrial,GD-N,General Dynamics Corp
+Industrial,GE-N,General Electric Company
+Industrial,GNRC-N,Generac Holdings Inc
+Industrial,GWW-N,W.W. Grainger
+Industrial,HII-N,Huntington Ingalls Industries
+Industrial,HON-Q,Honeywell International Inc
+Industrial,HWM-N,Howmet Aerospace Inc
+Industrial,IEX-N,Idex Corp
+Industrial,IR-N,Ingersoll Rand Inc
+Industrial,ITW-N,Illinois Tool Works Inc
+Industrial,J-N,Jacobs Engineering Group Inc
+Industrial,JBHT-Q,J B Hunt Transport
+Industrial,JCI-N,Johnson Controls Intl
+Industrial,LDOS-N,Leidos Holdings Inc
+Industrial,LHX-N,L3Harris Technologies Inc
+Industrial,LMT-N,Lockheed Martin Corp
+Industrial,LUV-N,Southwest Airlines Company
+Industrial,MAS-N,Masco Corp
+Industrial,MMM-N,3M Company
+Industrial,NDSN-Q,Nordson Corp
+Industrial,NOC-N,Northrop Grumman Corp
+Industrial,NSC-N,Norfolk Southern Corp
+Industrial,ODFL-Q,Old Dominion Freight Line Inc
+Industrial,OTIS-N,Otis Worldwide Corp
+Industrial,PCAR-Q,Paccar Inc
+Industrial,PH-N,Parker-Hannifin Corp
+Industrial,PNR-N,Pentair Ltd
+Industrial,PWR-N,Quanta Services
+Industrial,RHI-N,Robert Half International Inc
+Industrial,ROK-N,Rockwell Automation Inc
+Industrial,ROL-N,Rollins Inc
+Industrial,RSG-N,Republic Services
+Industrial,RTX-N,Raytheon Technologies Corp
+Industrial,SNA-N,Snap-On Inc
+Industrial,SWK-N,Stanley Black & Decker Inc
+Industrial,TDG-N,Transdigm Group Inc
+Industrial,TT-N,Trane Technologies Plc
+Industrial,TXT-N,Textron Inc
+Industrial,UAL-Q,United Airlines Holdings Inc
+Industrial,UNP-N,Union Pacific Corp
+Industrial,UPS-N,United Parcel Service
+Industrial,URI-N,United Rentals
+Industrial,VRSK-Q,Verisk Analytics Inc
+Industrial,WAB-N,Wabtec Corp
+Industrial,WM-N,Waste Management
+Industrial,XYL-N,Xylem Inc
+Materials,ALB-N,Albemarle Corp
+Materials,AMCR-N,Amcor Plc
+Materials,APD-N,Air Products and Chemicals
+Materials,AVY-N,Avery Dennison Corp
+Materials,BALL-N,Ball Corporation
+Materials,CE-N,Celanese Corp
+Materials,CF-N,Cf Industries Holdings
+Materials,CTVA-N,Corteva Inc
+Materials,DD-N,Dupont Denemours Inc
+Materials,DOW-N,Dow Inc
+Materials,ECL-N,Ecolab Inc
+Materials,EMN-N,Eastman Chemical Company
+Materials,FCX-N,Freeport-Mcmoran Inc
+Materials,FMC-N,FMC Corp
+Materials,IFF-N,International Flavors & Fragrances
+Materials,IP-N,International Paper Company
+Materials,LIN-N,Linde Plc
+Materials,LYB-N,Lyondellbasell Industries NV
+Materials,MLM-N,Martin Marietta Materials
+Materials,MOS-N,Mosaic Company
+Materials,NEM-N,Newmont Mining Corp
+Materials,NUE-N,Nucor Corp
+Materials,PKG-N,Packaging Corp of America
+Materials,PPG-N,PPG Industries
+Materials,SEE-N,Sealed Air Corp
+Materials,SHW-N,Sherwin-Williams Company
+Materials,STLD-Q,Steel Dynamics Inc
+Materials,VMC-N,Vulcan Materials Company
+Materials,WRK-N,Westrock Company
+Real Estate,AMT,American Tower Corp
+Real Estate,ARE,Alexandria Real Estate Equities
+Real Estate,AVB,Avalonbay Communities
+Real Estate,BXP,Boston Properties
+Real Estate,CBRE,CBRE Group Inc
+Real Estate,CCI,Crown Castle Inc
+Real Estate,CPT,Camden Property Trust
+Real Estate,DLR,Digital Realty Trust
+Real Estate,EQIX,Equinix Inc
+Real Estate,EQR,Equity Residential
+Real Estate,ESS,Essex Property Trust
+Real Estate,EXR,Extra Space Storage Inc
+Real Estate,FRT,Federal Realty Investment Trust
+Real Estate,HST,Host Marriott Financial Trust
+Real Estate,INVH,Invitation Homes Inc
+Real Estate,IRM,Iron Mountain Inc
+Real Estate,KIM,Kimco Realty Corp
+Real Estate,MAA,Mid-America Apartment Communities
+Real Estate,O,Realty Income Corp
+Real Estate,PEAK,Healthpeak Properties Inc
+Real Estate,PLD,Prologis Inc
+Real Estate,PSA,Public Storage
+Real Estate,REG,Regency Centers Corp
+Real Estate,SBAC,SBA Communications
+Real Estate,SPG,Simon Property Group
+Real Estate,UDR,United Dominion Realty Trust
+Real Estate,VICI,Vici Properties Inc
+Real Estate,VTR,Ventas Inc
+Real Estate,WELL,Welltower Inc
+Real Estate,WY,Weyerhaeuser Company
+Tech,ACN-N,Accenture Plc
+Tech,ADBE-Q,Adobe Systems Inc
+Tech,AMD-Q,Adv Micro Devices
+Tech,AKAM-Q,Akamai Technologies
+Tech,APH-N,Amphenol Corp
+Tech,ADI-Q,Analog Devices
+Tech,ANSS-Q,Ansys Inc
+Tech,AAPL-Q,Apple Inc
+Tech,AMAT-Q,Applied Materials
+Tech,ANET-N,Arista Networks Inc
+Tech,ADSK-Q,Autodesk Inc
+Tech,ADP-Q,Automatic Data Procs
+Tech,AVGO-Q,Broadcom Ltd
+Tech,BR-N,Broadridge Financial Solutions Llc
+Tech,CDNS-Q,Cadence Design Sys
+Tech,CDW-Q,CDW Corp
+Tech,CDAY-N,Ceridian Hcm Holding Inc
+Tech,CSCO-Q,Cisco Systems Inc
+Tech,CTSH-Q,Cognizant Tech Sol
+Tech,GLW-N,Corning Inc
+Tech,DXC-N,Dxc Technology Company
+Tech,ENPH-Q,Enphase Energy Inc
+Tech,EPAM-N,Epam Systems Inc
+Tech,FFIV-Q,F5 Inc
+Tech,FIS-N,Fidelity National Information Services
+Tech,FSLR-Q,First Solar Inc
+Tech,FISV-Q,Fiserv Inc
+Tech,FLT-N,Fleetcor Technologies
+Tech,FTNT-Q,Fortinet Inc
+Tech,IT-N,Gartner Inc
+Tech,GEN-Q,Gen Digital Inc
+Tech,GPN-N,Global Payments Inc
+Tech,HPE-N,Hewlett Packard Enterprise Comp
+Tech,HPQ-N,HP Inc
+Tech,INTC-Q,Intel Corp
+Tech,IBM-N,International Business Machines
+Tech,INTU-Q,Intuit Inc
+Tech,JKHY-Q,Jack Henry & Assoc
+Tech,JNPR-N,Juniper Networks
+Tech,KLAC-Q,K L A-Tencor Corp
+Tech,KEYS-N,Keysight Technologies Inc
+Tech,LRCX-Q,Lam Research Corp
+Tech,MA-N,Mastercard Inc
+Tech,MCHP-Q,Microchip Technology
+Tech,MU-Q,Micron Technology
+Tech,MSFT-Q,Microsoft Corp
+Tech,MPWR-Q,Monolithic Power Sys
+Tech,MSI-N,Motorola Solutions
+Tech,NTAP-Q,Netapp Inc
+Tech,NVDA-Q,Nvidia Corp
+Tech,NXPI-Q,Nxp Semiconductors
+Tech,ON-Q,On Semiconductor
+Tech,ORCL-N,Oracle Corp
+Tech,PAYX-Q,Paychex Inc
+Tech,PAYC-N,Paycom Software Inc
+Tech,PYPL-Q,Paypal Holdings
+Tech,PTC-Q,Ptc Inc
+Tech,QRVO-Q,Qorvo Inc
+Tech,QCOM-Q,Qualcomm Inc
+Tech,ROP-N,Roper Industries
+Tech,CRM-N,Salesforce Inc
+Tech,STX-Q,Seagate Technology Hldgs Plc
+Tech,NOW-N,Servicenow Inc
+Tech,SWKS-Q,Skyworks Solutions
+Tech,SEDG-Q,Solaredge Tech
+Tech,SNPS-Q,Synopsys Inc
+Tech,TEL-N,Te Connectivity Ltd
+Tech,TDY-N,Teledyne Technologies Inc
+Tech,TER-Q,Teradyne Inc
+Tech,TXN-Q,Texas Instruments
+Tech,TRMB-Q,Trimble Navigation
+Tech,TYL-N,Tyler Technologies
+Tech,VRSN-Q,Verisign Inc
+Tech,V-N,Visa Inc
+Tech,WDC-Q,Western Digital Cp
+Tech,ZBRA-Q,Zebra Technologies
+Utilities,AEE-N,Ameren Corp
+Utilities,AEP-Q,American Electric Power Company
+Utilities,AES-N,The Aes Corp
+Utilities,ATO-N,Atmos Energy Corp
+Utilities,AWK-N,American Water Works
+Utilities,CEG-Q,Constellation Energy Corp
+Utilities,CMS-N,Cms Energy Corp
+Utilities,CNP-N,Centerpoint Energy Inc
+Utilities,D-N,Dominion Resources
+Utilities,DTE-N,Dte Energy Company
+Utilities,DUK-N,Duke Energy Corp
+Utilities,ED-N,Consolidated Edison Company
+Utilities,EIX-N,Edison International
+Utilities,ES-N,Eversource Energy
+Utilities,ETR-N,Entergy Corp
+Utilities,EVRG-Q,Evergy Inc
+Utilities,EXC-Q,Exelon Corp
+Utilities,FE-N,Firstenergy Corp
+Utilities,LNT-Q,Alliant Energy Corp
+Utilities,NEE-N,Nextera Energy
+Utilities,NI-N,NiSource Inc
+Utilities,NRG-N,NRG Energy
+Utilities,PCG-N,Pacific Gas & Electric Company
+Utilities,PEG-N,Public Service Enterprise Group Inc
+Utilities,PNW-N,Pinnacle West Capital Corp
+Utilities,PPL-N,PPL Corp
+Utilities,SO-N,Southern Company
+Utilities,SRE-N,Sempra
+Utilities,WEC-N,Wisconsin Energy Corp
+Utilities,XEL-Q,XCEL Energy Inc
